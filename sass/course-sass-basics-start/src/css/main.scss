@@ -1,0 +1,23 @@
+/* 
+- Reset styles
+- taken from: https://piccalil.li/blog/a-modern-css-reset/
+*/
+
+// Table Components
+
+// abstratcs
+@use "./abstracts/variables";
+
+// base import
+@use "./base/reset";
+@use "./base/typography";
+
+// components
+@use "./components/button";
+@use "./components/hero";
+@use "./components/navbar";
+@use "./components/reason";
+
+// layout
+@use "./layout/layout";
+@use "./layout/footer";

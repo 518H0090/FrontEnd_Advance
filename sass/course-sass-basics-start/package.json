@@ -1,0 +1,23 @@
+{
+  "name": "course-sass-basics-start",
+  "version": "1.0.0",
+  "description": "These are the starter files for the project of our Learn SASS Basics course.",
+  "scripts": {
+    "dev": "parcel ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PixelRocket-Shop/course-sass-basics-start.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PixelRocket-Shop/course-sass-basics-start/issues"
+  },
+  "homepage": "https://github.com/PixelRocket-Shop/course-sass-basics-start#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.6.0",
+    "parcel": "^2.6.0"
+  }
+}
