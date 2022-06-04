@@ -12002,4 +12002,22 @@ textarea.form-control-lg {
   }
 }
 
+body:before {
+  content: "";
+  height: 60px;
+  display: block;
+}
+
+#map {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+
+@media (min-width: 768px) {
+  .news-input {
+    width: 50%;
+  }
+}
+
 /*# sourceMappingURL=index.034b6250.css.map */

@@ -504,6 +504,16 @@ function hmrAcceptRun(bundle, id) {
 
 },{}],"aitAD":[function(require,module,exports) {
 var _bootstrap = require("bootstrap");
+mapboxgl.accessToken = "<your access token here>";
+const map = new mapboxgl.Map({
+    container: "map",
+    style: "mapbox://styles/mapbox/streets-v11",
+    center: [
+        -74.5,
+        40
+    ],
+    zoom: 9
+});
 
 },{"bootstrap":"h36JB"}],"h36JB":[function(require,module,exports) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
