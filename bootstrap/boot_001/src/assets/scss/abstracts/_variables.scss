@@ -1,1 +1,35 @@
 // Use to Override _variables in boostrap
+
+// New Setup
+// Colors
+$primary: #2c4bff;
+$success: #5debdf;
+$danger: #db1a2a;
+$warning: #ff6c60;
+
+// $theme-colors: (
+//     "primary": $primary,
+//     "secondary": $secondary,
+//     "success": $success,
+//     "info": $info,
+//     "warning": $warning,
+//     "danger": $danger,
+//     "light": $light,
+//     "dark": $dark,
+// );
+
+// Typography
+$display-font-sizes: (
+    1: 5rem,
+    2: 4.5rem,
+    3: 4rem,
+    4: 3.5rem,
+    5: 3rem,
+    6: 2.5rem,
+);
+
+/*
+Rubik -fonts
+font-family: 'Roboto', sans-serif;
+font-family: 'Rubik', sans-serif;
+*/
