@@ -2,8 +2,6 @@ npm install -g @angular/cli
 npm uninstall -g @angular/cli
 npm install -g @angular/cli@1.0.0
 
-
-
 set-ExecutionPolicy RemoteSigned -Scope CurrentUser 
 Get-ExecutionPolicy
 Get-ExecutionPolicy -list  
@@ -16,3 +14,13 @@ ng generate component componentNAme
 
 ng serve --port [portnumber - example :4201]
 ng serve --port 4201
+
+
+ng g c [component_name] --inline-style  # co html va ts ko co css
+ng g c [component_name] --inline-template # co css va ts ko co html
+ng g c [component_name] --inline-style --inline-template # co ts ko  co html vs css
+
+#Module quan ly component , directives , pipes , services
+ng g m [module_name]  # module la group de quan ly cac component
+ng g c [module_name]/[component_name] # component la cac thanh phan con trong module
+
