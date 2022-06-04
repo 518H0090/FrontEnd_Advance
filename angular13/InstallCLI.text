@@ -12,4 +12,7 @@ ng version
 npm uninstall -g npm
 npm install npm@latest -g
 
-13.1.0
+ng generate component componentNAme
+
+ng serve --port [portnumber - example :4201]
+ng serve --port 4201
