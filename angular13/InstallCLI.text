@@ -1,0 +1,15 @@
+npm install -g @angular/cli
+npm uninstall -g @angular/cli
+npm install -g @angular/cli@1.0.0
+
+
+
+set-ExecutionPolicy RemoteSigned -Scope CurrentUser 
+Get-ExecutionPolicy
+Get-ExecutionPolicy -list  
+ng version
+
+npm uninstall -g npm
+npm install npm@latest -g
+
+13.1.0
