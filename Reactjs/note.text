@@ -1,4 +1,12 @@
 [value,function] = UseState(defaultValue)
 
-để sử dụng giá trị trước của state ta dùng : prevState
+# để sử dụng giá trị trước của state ta dùng : prevState
 
+npm install axios
+
+# axios để fetch data
+
+https://jsonplaceholder.typicode.com/
+
+# chỉ fetch 1 lần mỗi khi load lại trang hoặc vào trang
+useEffect([fuction],[])
