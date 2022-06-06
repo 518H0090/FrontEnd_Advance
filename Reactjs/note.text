@@ -1,0 +1,4 @@
+[value,function] = UseState(defaultValue)
+
+để sử dụng giá trị trước của state ta dùng : prevState
+
