@@ -10,3 +10,5 @@ https://jsonplaceholder.typicode.com/
 
 # chỉ fetch 1 lần mỗi khi load lại trang hoặc vào trang
 useEffect([fuction],[])
+
+npm i react-router-dom

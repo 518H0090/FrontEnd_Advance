@@ -1,0 +1,9 @@
+# update react
+npx create-react-app [name]
+
+yarn add react
+
+yarn add react@alpha
+yarn add react-dom@alpha
+
+yarn create react-app appname
