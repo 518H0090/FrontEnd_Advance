@@ -1,0 +1,17 @@
+margin
+m-1 to m-10
+mr-1 to mr-10
+
+padding
+p-1 to p-10
+px-1 to px-10
+py-1 to py-10
+
+
+background 
+bg-[color]-[number]
+
+text style
+text-white
+
+shadow
